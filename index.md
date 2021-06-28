@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pop Art Drink Smart](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart&hl=hr&gl=US)
+<img src="file:///C:/Users/Dejan/Desktop/Radovi/Art/unnamed%20(1).webp"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
