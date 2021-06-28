@@ -5,8 +5,7 @@
 ### Category Name 1 
 
 [Pop Art Drink Smart android version](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart&hl=hr&gl=US)
-<br>
-<img src="unnamed.webp"/>
+<img src="Profile Image.jpg"/>
 
 ---
 [Pop Art Drink Smart PC version](https://idejo.itch.io/pop-art-drink-smart)
