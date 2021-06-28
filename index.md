@@ -17,8 +17,12 @@
 
 ---
 [Endless Maze Runner](https://klaudija34.itch.io/endless-maze-runner)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+<img src="8n7naC.jpg" width = "500px" height = "500px"/>
+<br>
+<img src="NKt7ll.jpg" width = "500px" height = "500px"/>
+<br>
+<img src="Nb9U2B.jpg" width = "500px" height = "500px"/>
 ---
 
 ### Category Name 2
