@@ -41,6 +41,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://https://www.deviantart.com/idejo/">View My DeviantArt Page </a> 
   <br>
   <a href="https://www.artstation.com/dejanseretinek/">View My ArtStation Page </a> 
+   <br>
+  <a href="https://www.freelancer.com/u/dejanseretinek/">View My Freelancer.com Page </a> 
   
   
 theme: jekyll-theme-minimal
