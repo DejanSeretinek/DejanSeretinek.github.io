@@ -30,11 +30,6 @@
 - [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
 <br> <img src="images/Restaurant Filippi.png" width = "500px" height = "500px"/>
 <br>
-- 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
