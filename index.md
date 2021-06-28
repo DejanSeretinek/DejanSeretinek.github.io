@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Pop Art Drink Smart](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart&hl=hr&gl=US)
+[Pop Art Drink Smart android version](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart&hl=hr&gl=US)
 <img src="file:///C:/Users/Dejan/Desktop/Radovi/Art/unnamed%20(1).webp"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Pop Art Drink Smart PC version](https://idejo.itch.io/pop-art-drink-smart)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Endless Maze Runner](https://klaudija34.itch.io/endless-maze-runner)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
