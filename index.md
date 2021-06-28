@@ -18,17 +18,17 @@
 ---
 [Endless Maze Runner (Page on Itch.io)](https://klaudija34.itch.io/endless-maze-runner)
 <br>
-<img src="8n7naC.jpg" width = "500px" height = "500px"/>
+<img src="images/8n7naC.jpg" width = "500px" height = "500px"/>
 <br>
-<img src="NKt7ll.jpg" width = "500px" height = "500px"/>
+<img src="images/NKt7ll.jpg" width = "500px" height = "500px"/>
 <br>
-<img src="Nb9U2B.jpg" width = "500px" height = "500px"/>
+<img src="images/Nb9U2B.jpg" width = "500px" height = "500px"/>
 ---
 
 ### Category Name 2
 
 - [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
-<br> <img src="images/Profile Image.jpg" width = "500px" height = "500px"/>
+<br> <img src="images/Restaurant Filippi.jpg" width = "500px" height = "500px"/>
 <br>
 - 
 - [Project 2 Title](http://example.com/)
