@@ -45,6 +45,9 @@ Domagoj Petrović - Programmer
 <br>
 <img src="images/Nb9U2B.jpg" width = "500px" height = "500px"/>
 ---
+<p>
+  Endless Maze Runner is endless maze type of game with multiplayer option. Player is trapped in a maze with similar rooms. Only diffference between rooms is number of doors. Subway with opening doors lead to a different room. Map is crucial to orientate through game where you put a mark of room where you are currently so you can orientate. Goal of the game is to collect five torches with matching colors and bring them to altars with same colors.
+  </p>
 
 ### Word Press Page 
 
