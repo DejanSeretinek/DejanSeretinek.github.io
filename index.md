@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Published Games
 
 [Pop Art Drink Smart Android version (Google Play)](https://play.google.com/store/apps/details?id=com.PISMOInkubator.PopArtDrinkSmart&hl=hr&gl=US)
 <br>
@@ -25,7 +25,7 @@
 <img src="images/Nb9U2B.jpg" width = "500px" height = "500px"/>
 ---
 
-### Category Name 2
+### Word Press Page 
 
 - [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
 <br> <img src="images/Restaurant Filippi.jpg" width = "500px" height = "500px"/>
