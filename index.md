@@ -28,8 +28,7 @@
 ### Category Name 2
 
 - [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
-- <br>
-<img src="images/Profile Image.jpg" width = "500px" height = "500px"/>
+  <img src="images/Profile Image.jpg" width = "500px" height = "500px"/>
 <br>
 - 
 - [Project 2 Title](http://example.com/)
