@@ -27,7 +27,11 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
+- <br>
+<img src="images/Profile Image.jpg" width = "500px" height = "500px"/>
+<br>
+- 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
