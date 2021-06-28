@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Location: Zadar / Novska, Croatia
   
   <br>
-  Programming skills
+  <b>Programming skills</b>
   <br>
   - C#
   <br>
@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   - Wordpress
   <br>
-  Digital Art
+  <b>Digital Art</b>
   <br>
   - Adobe Photoshop
   <br>
@@ -26,7 +26,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   - Adobe After Effects
   <br>
-  Game Engines
+  <b>Game Engines</b>
   <br>
   - Unity
   <br>
