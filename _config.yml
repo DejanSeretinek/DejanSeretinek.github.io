@@ -49,8 +49,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.artstation.com/dejanseretinek/">View My ArtStation Page</a> 
   <br>
   <a href="https://www.freelancer.com/u/dejanseretinek/">View My Freelancer.com Page</a> 
-  <br>
-  <a href="https://github.com/DejanSeretinek">Github</a> 
+  
   
   
 theme: jekyll-theme-minimal
