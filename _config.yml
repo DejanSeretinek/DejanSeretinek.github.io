@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Age: 32
   Location: Zadar / Novska, Croatia
   
-  
-  <br><br>
+  <br>
   Programming skills
   <br>
   - C#
@@ -16,7 +15,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - CSS
   <br>
   - Wordpress
-  <br>
   <br>
   Digital Art
   <br>
@@ -32,7 +30,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   - Unity
   <br>
-  <br> 
   3D Modelling and Animations
   <br>
   - Autodesk 3d's Max
@@ -42,7 +39,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Fuse
   <br>
   - Make Human
-  <br>
   <br>
   <Other Software>
   <br> Adobe Dreamweaver
