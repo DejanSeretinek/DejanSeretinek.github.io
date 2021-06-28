@@ -11,12 +11,12 @@
 <img src="images/Profile Image2.jpg" width = "500px" height = "500px"/>
 
 ---
-[Pop Art Drink Smart Windows version(Page on Itch.io)](https://idejo.itch.io/pop-art-drink-smart)
+[Pop Art Drink Smart Windows version (Page on Itch.io)](https://idejo.itch.io/pop-art-drink-smart)
 <br>
 <img src="images/Profile Image3.jpg" width = "500px" height = "500px"/>
 
 ---
-[Endless Maze Runner(Page on Itch.io)](https://klaudija34.itch.io/endless-maze-runner)
+[Endless Maze Runner (Page on Itch.io)](https://klaudija34.itch.io/endless-maze-runner)
 <br>
 <img src="8n7naC.jpg" width = "500px" height = "500px"/>
 <br>
