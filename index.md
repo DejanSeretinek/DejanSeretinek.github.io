@@ -52,7 +52,7 @@ Domagoj Petrović - Programmer
 ### Word Press Page 
 
 - [Restaurant Fillipi Word Press Page](https://www.restaurantfilippi.com/)
-<br> <img src="images/Restaurant Filippi.png" width = "500px" height = "500px"/>
+<br> <img src="images/Restaurant Filippi.png"/>
 <br>
 
 ---
