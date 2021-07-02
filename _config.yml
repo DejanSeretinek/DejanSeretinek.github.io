@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Age: 32
   Location: Zadar / Novska, Croatia
   <br>
-  dejanseretinek@gmail.com Phone: +38591 941 1145
+  dejanseretinek@gmail.com 
+  <br>Phone: +38591 941 1145
   
   <br>
   <b>Programming skills</b>
@@ -32,8 +33,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Autodesk 3d's Max
   <br>
   <b>Other</b>
-  <br> 
-   - Adobe Dreamweaver
   <br> 
    - Github
   <br>
